@@ -10,6 +10,7 @@ following for each user with a username matching the abc123 format:
 • Number of times logged in
 
 Input:
+
 1 rslavin pts /2 129.115.27.54 Thu Aug 16 09:31 still logged in
 
 2 xlg795 pts /1 n0000a061 .cs.uts Thu Aug 16 08:31 still logged in
@@ -31,6 +32,7 @@ Input:
 10 rkd397 pts /1 n0000a023 .cs.uts Wed Aug 15 09:11 - 14:55 (05:43)
 
 Output:
+
 1 User : gan122
     2 Last host : cpe -66 -69 -13 -217
     3 Total Time : 0:03
