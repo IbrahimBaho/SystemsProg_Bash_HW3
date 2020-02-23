@@ -33,18 +33,18 @@ Input:
 
 Output:
 
-1 User : gan122
-    2 Last host : cpe -66 -69 -13 -217
-    3 Total Time : 0:03
+User : gan122
+    Last host : cpe -66 -69 -13 -217
+    Total Time : 0:03
     4 Total Sessions : 1
-5 User : pwj861
-    6 Last host : 71.122.21.84
-    7 Total Time : 1:08
-    8 Total Sessions : 1
-9 User : hlh735
-    10 Last host : n0000a154 .cs.uts
-    11 Total Time : 1:37
-    12 Total Sessions : 2
+User : pwj861
+    Last host : 71.122.21.84
+    Total Time : 1:08
+    Total Sessions : 1
+User : hlh735
+    Last host : n0000a154 .cs.uts
+    Total Time : 1:37
+    Total Sessions : 2
 .
 .
 .
